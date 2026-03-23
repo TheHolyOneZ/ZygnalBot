@@ -18,7 +18,7 @@ The source code of ZygnalBot is DMCA claimed. Please follow the provided license
 
 You can now download the latest version of ZygnalBot from the following:
 
-- **[Download Here](https://zygnalbot.com/)**
+- **[Download Here](https://zsync.eu/zygnalbot/)**
 - Alternatively, you can open a ticket in the [Discord Community](https://discord.gg/U8sssc6xbv) for instant access.
 
 
