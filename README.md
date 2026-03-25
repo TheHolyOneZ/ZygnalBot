@@ -23,14 +23,31 @@ You can now download the latest version of ZygnalBot from the following:
 
 
 ---
+## 🚀 Want Better Performance Than ZygnalBot?
 
-> 💡 Interested in building your own Discord bots?
->  
-> Check out **Zoryx Discord Bot Framework**:  
-> https://github.com/TheHolyOneZ/discord-bot-framework  
->  
-> A powerful, modular framework with built-in tools, scalability in mind, and access to the Zygnal Marketplace.
+Looking for the same great features as ZygnalBot — but faster, more scalable, and even more powerful?
 
+---
+
+💡 **Interested in building your own Discord bots?**
+
+Check out **Zoryx Discord Bot Framework**:
+
+👉 [https://github.com/TheHolyOneZ/discord-bot-framework](https://github.com/TheHolyOneZ/discord-bot-framework)
+👉 [Homepage](https://zsync.eu/zdbf/)
+A powerful, modular Discord bot framework designed for scalability, packed with built‑in tools, and fully integrated with the **Zygnal Marketplace**.
+
+---
+
+### ✨ Why Zoryx?
+
+* ⚡ High performance and optimized architecture
+* 🧩 Modular design for easy expansion
+* 🛠️ Built‑in developer tools
+* 📈 Designed with scalability in mind
+* 🛒 Access to the Zygnal Marketplace ecosystem
+
+Start building smarter Discord bots today.
 
 -- 
 ### **Extensions:**
