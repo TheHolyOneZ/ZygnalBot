@@ -1,79 +1,35 @@
+---
+---
 
+> **ZygnalBot & ZDBF V1 Are Officially Retired**
+>
+> Development is moving forward to **[ZDBF V2](https://github.com/TheHolyOneZ/ZDBF-V2)** — the next generation of the Zoryx Discord Bot Framework.
+>
+> **Why ZDBF V2?**
+> - Better performance and a completely rewritten architecture
+> - More features through the integrated [ZSync Extension Marketplace](https://zsync.eu/extension/)
+> - Built-in no-code automation engine
+> - Advanced server backup, restore and comparison system
+> - Self-hosted web dashboard for remote bot management
+> - Hot-reloadable extensions with dependency management
+> - Built-in cron scheduler for automated tasks
+> - Advanced diagnostics, monitoring and error handling
+> - Automatic sharding and multi-process cluster support
+> - Easier maintenance and extensibility
+> - Open Source under Apache License 2.0 (core framework)
+>
+> **The future is ZDBF V2.**
+>
+> Repository: https://github.com/TheHolyOneZ/ZDBF-V2
+>
+> Documentation: https://github.com/TheHolyOneZ/ZDBF-V2/tree/main/docs
+
+---
 
 
 
 # ZygnalBot – The Ecosystem of Innovation
 
-**Breaking barriers, unlocking knowledge, and delivering precision—powered by TheHolyOneZ.**
-
----
-
-### **Note: ZygnalBot is for Self-Hosting!**
-
-The source code of ZygnalBot is DMCA claimed. Please follow the provided license for usage.
-
----
-
-### **Latest Version:**
-
-You can now download the latest version of ZygnalBot from the following:
-
-- **[Download Here](https://zsync.eu/zygnalbot/)**
-- Alternatively, you can open a ticket in the [Discord Community](https://discord.gg/U8sssc6xbv) for instant access.
-
-
----
-## 🚀 Want Better Performance Than ZygnalBot?
-
-Looking for the same great features as ZygnalBot — but faster, more scalable, and even more powerful?
-
----
-
-💡 **Interested in building your own Discord bots?**
-
-Check out **Zoryx Discord Bot Framework**:
-
-👉 [https://github.com/TheHolyOneZ/discord-bot-framework](https://github.com/TheHolyOneZ/discord-bot-framework)
-👉 [Homepage](https://zsync.eu/zdbf/)
-A powerful, modular Discord bot framework designed for scalability, packed with built‑in tools, and fully integrated with the **Zygnal Marketplace**.
-
----
-
-### ✨ Why Zoryx?
-
-* ⚡ High performance and optimized architecture
-* 🧩 Modular design for easy expansion
-* 🛠️ Built‑in developer tools
-* 📈 Designed with scalability in mind
-* 🛒 Access to the Zygnal Marketplace ecosystem
-
-Start building smarter Discord bots today.
-
--- 
-### **Extensions:**
-
-ZygnalBot supports extensions! Explore available extensions here:
-
-- **[Extension Portal](https://zygnalbot.de/extension_portal.html)**
-
----
-
-### **Support the Project:**
-
-If you'd like to support the ZygnalBot project, you can contribute via:
-
-- **[Support ZygnalBot](https://zygnalbot.com/support.html)**
-
----
-
-### **Join TheZ's ZygnalBot Community:**
-
-- **[Click Here to Join The Discord](https://discord.gg/U8sssc6xbv)**
-    - Open a ticket for instant access.
-    - Get the bot/script immediately.
-    - When you get the bot, remember to star the repository!
-
----
 
 ### **Video Guide:**
 
